@@ -1,0 +1,46 @@
+*{margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    background: transparent;
+  }
+
+#contenedor{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    /* background-color: aqua; */
+}
+
+.cuadro{
+    position: relative;
+    float: left;
+    width: 30%;
+    height: 40%;
+    margin-top: 3%;
+    margin-left: 12%;
+}
+
+.text_nom{
+    font-family: 'Roboto Slab', serif;
+    font-size: 350%;
+    color: aliceblue;
+    margin-left: 20%;
+    margin-top: 15%;
+}
+
+#div_Alejandra{
+    background-color: purple;
+}
+
+#div_Abigail{
+    background-color: plum;
+}
+
+#div_Enrique{
+    background-color: lightblue;
+}
+
+#div_Alejandro{
+    background-color: brown;
+}
